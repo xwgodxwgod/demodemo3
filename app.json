@@ -5,19 +5,19 @@
     "env": {
         "VmessUUID": {
             "description": "Vmess UUID",
-            "value": "ad2c9acd-3afb-4fae-aff2-954c532020bd"
+            "value": "5195a21b-8426-4791-86a6-6e01ff8b4999"
         },
         "VmessPATH": {
             "description": "Vmess WS Path",
-            "value": "/8182cac2"
+            "value": "/71727374"
         },
         "TrojanPassword": {
             "description": "Trojan Password",
-            "value": "7e66d422"
+            "value": "71727374"
         },        
         "TrojanPATH": {
             "description": "Trojan WS Path",
-            "value": "/6c8760b7"
+            "value": "/71727374"
         },
         "ArgoCERT": {
             "description": "Argo CERT",
